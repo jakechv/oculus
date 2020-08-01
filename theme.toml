@@ -1,4 +1,4 @@
-name = "Photo Grid"
+name = "Oculus"
 license = "MIT License"
 licenselink = "https://github.com/chen-zhe/photo-grid/blob/master/LICENSE.md"
 description = "A Photography-centric responsive grid gallery with deep content management integration with Hugo. Based on Hugrid"
@@ -7,8 +7,8 @@ tags = ["gallery", "photography", "content management", "google analytics"]
 min_version = "0.59.0"
 
 [author]
-  name = "Chen Zhe"
-  homepage = "https://chen-zhe.github.io"
+  name = "Jacob Chvatal"
+  homepage = "https://jacob.chvatal.com"
 
 [original]
   name = "Hugrid"
