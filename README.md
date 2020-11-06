@@ -2,6 +2,10 @@
 
 This responsive grid theme provides a beautiful layout to showcase your photograghy and manage your gallery with ease.
 
+# DEPRECATED
+
+This was a previous attempt at a simple solution to a more complex problem. Completely static sites, in my opinion, are /not/ the correct approach to hosting and interacting with media that isn't solely text and images. 
+
 ## Distinguishing Features
 
 - Easy photo management
